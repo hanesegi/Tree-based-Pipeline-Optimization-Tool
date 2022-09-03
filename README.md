@@ -1,3 +1,4 @@
 # Tree-based-Pipeline-Optimization-Tool
 
-<h3>coming soon<h3>
+<h3>Repositori ini berisi pengalaman belajar TPOT <h3>
+ 
